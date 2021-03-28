@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Player Hit Box
+  - Obstacle
+  - Health
+  - Enemy
+  - Checks
+  - Enemy Hit Boxes
+  - Gun Point
+  - Gun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Foreground
+  - Game Field
+  - Terrain
+  - Background
+  - Flying
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1231571029
+    locked: 0
+  - name: Terrain
+    uniqueID: 4045911479
+    locked: 0
+  - name: GUI
+    uniqueID: 4286623977
+    locked: 0
+  - name: Enemy Blood
+    uniqueID: 3564584531
+    locked: 0
+  - name: Enemy Background
+    uniqueID: 2982827033
+    locked: 0
+  - name: Enemy
+    uniqueID: 3245311763
+    locked: 0
+  - name: Player Blood
+    uniqueID: 2244399593
+    locked: 0
+  - name: Player Background
+    uniqueID: 3120153003
+    locked: 0
+  - name: Player
+    uniqueID: 1323016231
+    locked: 0
+  - name: Player Bullets
+    uniqueID: 3527087335
+    locked: 0
+  - name: Player Gun
+    uniqueID: 2697872863
+    locked: 0
+  - name: Player Foreground
+    uniqueID: 3504864477
+    locked: 0
